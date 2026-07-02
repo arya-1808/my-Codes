@@ -17,7 +17,7 @@ try:
     print(a/a1)
 except Exception as e:
     print(e)
-except ValueError as h:
+except Exception as h:
     print(h)
 
 
